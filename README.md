@@ -26,4 +26,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/NilanjanJana16/LeetCode/tree/master/0645-set-mismatch) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/NilanjanJana16/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/NilanjanJana16/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
