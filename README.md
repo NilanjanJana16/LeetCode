@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/NilanjanJana16/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/NilanjanJana16/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/NilanjanJana16/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/NilanjanJana16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/NilanjanJana16/LeetCode/tree/master/0645-set-mismatch) |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/NilanjanJana16/LeetCode/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
 | ------- |
