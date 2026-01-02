@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NilanjanJana16/LeetCode/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/NilanjanJana16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/NilanjanJana16/LeetCode/tree/master/0645-set-mismatch) |
 ## Hash Table
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/NilanjanJana16/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
