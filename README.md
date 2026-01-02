@@ -7,12 +7,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NilanjanJana16/LeetCode/tree/master/0001-two-sum) |
+| [0645-set-mismatch](https://github.com/NilanjanJana16/LeetCode/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NilanjanJana16/LeetCode/tree/master/0001-two-sum) |
+| [0645-set-mismatch](https://github.com/NilanjanJana16/LeetCode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0009-palindrome-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/NilanjanJana16/LeetCode/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/NilanjanJana16/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
