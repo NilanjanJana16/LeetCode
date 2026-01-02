@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/NilanjanJana16/LeetCode/tree/master/0066-plus-one) |
+| [0509-fibonacci-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,4 +55,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NilanjanJana16/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
