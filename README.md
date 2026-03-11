@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/NilanjanJana16/LeetCode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/NilanjanJana16/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/NilanjanJana16/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/NilanjanJana16/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -70,4 +72,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/NilanjanJana16/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
