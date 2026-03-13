@@ -12,8 +12,7 @@ class Solution {
                 if(sum== target){
                     ans[0] = i;
                     ans[1]= j; 
-                }else{
-                    sum=0;
+                    break;
                 }
             }
 
