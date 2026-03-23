@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NilanjanJana16/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/NilanjanJana16/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/NilanjanJana16/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/NilanjanJana16/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0136-single-number) |
@@ -80,4 +81,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/NilanjanJana16/LeetCode/tree/master/1518-water-bottles) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NilanjanJana16/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NilanjanJana16/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
