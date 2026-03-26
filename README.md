@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/NilanjanJana16/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NilanjanJana16/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/NilanjanJana16/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/NilanjanJana16/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/NilanjanJana16/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/NilanjanJana16/LeetCode/tree/master/0268-missing-number) |
@@ -95,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NilanjanJana16/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/NilanjanJana16/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
